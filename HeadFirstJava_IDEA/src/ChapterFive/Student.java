@@ -1,4 +1,5 @@
 package ChapterFive;
+/* REFACTOR THIS USING ENHANCED FOR LOOP */
 
 public class Student {
     String[] nameArray = {"Fred", "Sally", "Timmy", "Pat", "Phil"};

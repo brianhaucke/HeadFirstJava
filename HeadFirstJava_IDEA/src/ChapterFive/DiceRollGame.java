@@ -12,8 +12,7 @@ public class DiceRollGame {
         }
         moreDice.determineYahtzee(f[0], f[1], f[2], f[3], f[4]);
 
-        //Test different rolls to verify correct result:
-        //moreDice.determineYahtzee(6,1,1,1,1);
+
 
 
 

@@ -44,6 +44,12 @@ public class OldDiceRollGame {
                     || (x == y) && (y == z)
                     || (w == y) && (y == z)))))));
 
+
+                boolean straight = (((v != w) && (v != x) && (v != y) && (v != z))
+                && ((w != x) && (w != y) && (w != z))
+                && ((x != y) && (x != z))
+                && ((y != z)));
+
 */
 }
 
